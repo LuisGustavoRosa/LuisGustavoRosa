@@ -1,4 +1,4 @@
-### Oie devs 👋
+[### Oie devs 👋
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
@@ -52,3 +52,4 @@ object LuisGustavoRosa {
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
+](https://www.linkedin.com/in/luis-gustavo-rosa-cardoso-b3a25b174/)
