@@ -30,7 +30,7 @@ object LuisGustavoRosa {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?LuisGustavoRosa=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://raw.githubusercontent.com/LuisGustavoRosa/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 </a>
 
 <a href="https://github.com/Gurupreet">
