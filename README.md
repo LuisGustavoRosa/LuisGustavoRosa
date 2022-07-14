@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>{LuisGustavoRosa}!</strong>
+## 💜 Olá, meu nome é <strong>Luis Gustavo Rosa!</strong>
 
 > Faça uma breve aprensentação sobre você e a sua área.
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
@@ -25,4 +25,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats]https://github-readme-stats.vercel.app/api?username=LuisGustavoRosa&show_icons=true
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisGustavoRosa&show_icons=true)
