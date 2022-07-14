@@ -30,18 +30,18 @@ object LuisGustavoRosa {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?LuisGustavoRosa=vanessaswerts&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavoRosa&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?LuisGustavoRosa=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGustavoRosa&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+[linkedin]: https://www.linkedin.com/in/luis-gustavo-rosa-cardoso-b3a25b17
 <br>
 
 #### Rede Sociais!
@@ -52,4 +52,4 @@ object LuisGustavoRosa {
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-](https://www.linkedin.com/in/luis-gustavo-rosa-cardoso-b3a25b174/)
+
