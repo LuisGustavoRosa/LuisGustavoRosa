@@ -1,11 +1,13 @@
 
 ## 💜 Olá, meu nome é <strong>Luis Gustavo!</strong>
 
-> Atualmente sou desenvolvedor backend.
+> Atualmente sou desenvolvedor backend , formado em análise e desenvolvimento de sistemas.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 No momento estou trabalhando na refatoração do meu projeto de conclusão da faculdade para NestJS.
+    src="https://github.com/LuisGustavoRosa/beach-service-nestJS"
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬  Meu linkedin : src="https://www.linkedin.com/in/luis-gustavo-rosa-cardoso-b3a25b174/"
+    Meu email : luis.cardoso@rede.ulbra.br
 
 ----
 
