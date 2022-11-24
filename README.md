@@ -6,7 +6,7 @@
 🔭 No momento estou trabalhando na refatoração do meu projeto de conclusão da faculdade para NestJS.
     src="https://github.com/LuisGustavoRosa/beach-service-nestJS"
 
-💬  Meu linkedin : "https://www.linkedin.com/in/luis-gustavo-rosa-cardoso-b3a25b174/"
+💬  Meu linkedin : https://www.linkedin.com/in/luis-gustavo-rosa-cardoso-b3a25b174/
     Meu email : luis.cardoso@rede.ulbra.br
 
 ----
