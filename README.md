@@ -27,7 +27,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats]<a href="https://github.com/Gurupreet">
+<a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuisGustavoRosa&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
