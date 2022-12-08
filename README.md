@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Olá, meu nome é Luis Gustavo!<br>Atualmente sou desenvolvedor backend , formado em análise e desenvolvimento de sistemas.<br><br>🔭 No momento estou trabalhando na refatoração do meu projeto de conclusão da faculdade para NestJS. <br>https://github.com/LuisGustavoRosa/beach-service-nestJS">
+Olá, meu nome é Luis Gustavo!<br>Atualmente sou desenvolvedor backend , formado em análise e desenvolvimento de sistemas. Trabalho com desenvolvedor backend na empresa ubistart <br><br>🔭 No momento estou trabalhando na refatoração do meu projeto de conclusão da faculdade para NestJS. <br>https://github.com/LuisGustavoRosa/beach-service-nestJS">
 
 
 ## 🌐 Socials:
