@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there! 👋<br><br>I'm a Fullstack Developer with 2 years of experience, specializing in **Angular** for front-end and **C#** for back-end development. <br><br>I have a passion for creating efficient, scalable web applications, and I’m always looking to improve my skills and learn new technologies. <br><br>Feel free to explore my projects or reach out for collaboration opportunities!<br>
+# Hi there! 👋<br><br>I'm a Fullstack Developer with 2.5 years of experience, specializing in **Angular** for front-end and **C#** for back-end development. <br><br>I have a passion for creating efficient, scalable web applications, and I’m always looking to improve my skills and learn new technologies. <br><br>Feel free to explore my projects or reach out for collaboration opportunities!<br>
 
 
 ## 🌐 Socials:
