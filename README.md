@@ -1,16 +1,68 @@
-# 💫 About Me:
-Hi! I'm Luis Gustavo, a Full Stack Developer passionate about building clean, scalable, and maintainable web applications. I focus on Angular and .NET, but I love exploring new technologies and improving my skills.<br><br>I enjoy solving problems, writing clean code, and contributing to projects that make a real impact. Always learning, always improving.
+# 👋 Hello, I'm Luis Gustavo
 
+💻 Full Stack Developer | Angular & .NET
+🚀 Building scalable, clean and high-performance applications
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoorosa/)
+---
 
+## 🧠 About Me
 
-# 💻 Tech Stack:
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LuisGustavoRosa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LuisGustavoRosa&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGustavoRosa&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a developer focused on creating **maintainable and scalable systems** using modern technologies.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🔥 Strong experience with Angular & .NET ecosystem
+* 🧩 Problem solver and clean code enthusiast
+* 📚 Always learning and evolving
+* ⚡ Focused on performance and architecture
+
+---
+
+## 🌎 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gustavoorosa/)
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+
+![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+
+### ⚙️ Backend
+
+![C#](https://img.shields.io/badge/csharp-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
+
+### 🗄 Database & Messaging
+
+![Postgres](https://img.shields.io/badge/postgresql-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+
+### ⚙️ DevOps
+
+![Jenkins](https://img.shields.io/badge/jenkins-2C5263?style=for-the-badge\&logo=jenkins\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160em" src="https://streak-stats.demolab.com/?user=LuisGustavoRosa&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🧩 What I'm focusing on
+
+* 🏗 Improving system architecture
+* ⚡ Performance optimization
+* 🔄 Clean code & best practices
+* ☁️ Exploring cloud solutions
+
+---
+
+## ✨ Fun Fact
+
+I love turning complex problems into simple solutions 🚀
